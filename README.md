@@ -11,7 +11,7 @@
 <!-- travis-ci.com badge, uncomment or delete as needed, depending on whether you are using that service. -->
 <!-- [![Build Status](https://travis-ci.com/tbeason/VectorizationTransformations.jl.svg?branch=master)](https://travis-ci.com/tbeason/VectorizationTransformations.jl) -->
 <!-- Coverage badge on codecov.io, which is used by default. -->
-[![codecov.io](http://codecov.io/github/tbeason/VectorizationTransformations.jl/coverage.svg?branch=master)](http://codecov.io/github/tbeason/VectorizationTransformations.jl?branch=main)
+[![codecov.io](http://codecov.io/github/tbeason/VectorizationTransformations.jl/coverage.svg?branch=main)](http://codecov.io/github/tbeason/VectorizationTransformations.jl?branch=main)
 <!-- Documentation -- uncomment or delete as needed -->
 <!--
 [![Documentation](https://img.shields.io/badge/docs-stable-blue.svg)](https://tbeason.github.io/VectorizationTransformations.jl/stable)
