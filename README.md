@@ -60,6 +60,6 @@ symmetrizer_matrix(5)
 
 Wikipedia pages and the following paper:
 
-The Elimination Matrix: Some Lemmas and Applications
+*The Elimination Matrix: Some Lemmas and Applications*
 Jan R. Magnus and H. Neudecker
 SIAM Journal on Algebraic Discrete Methods 1980 1:4, 422-449
